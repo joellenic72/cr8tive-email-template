@@ -1,1 +1,1 @@
-# email-template
+# Joelle Creative Email Template
